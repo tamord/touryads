@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Advertisers">
+  <DataContextMoniker Name="/AdvertisersDataContext" />
+  <nestedChildShapes>
+    <classShape Id="94d35d5d-fe0d-4832-a147-c4b0eaf2acb2" absoluteBounds="2, 0.875, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/AdvertisersDataContext/Table_TouryAds_Advertiser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4e5151fe-72c2-48ab-87d6-ed7178bd00a3" absoluteBounds="2.0149999999999997, 1.335, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ee2f21d9-c921-4021-9137-bd0d8128d472" absoluteBounds="5.5, 1.75, 2, 2.5401025390625">
+      <DataClassMoniker Name="/AdvertisersDataContext/Table_TouryAds_Advertisers_Stat" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8200c6dc-e1e9-450c-a8eb-61c4c7c8bc23" absoluteBounds="5.515, 2.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

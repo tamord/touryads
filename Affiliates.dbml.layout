@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.375" name="Affiliates">
+  <DataContextMoniker Name="/AffiliatesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ae8605f0-f206-4dcc-a65c-d0916a51347a" absoluteBounds="1.5, 2.125, 2, 6.9630354817708326">
+      <DataClassMoniker Name="/AffiliatesDataContext/Table_FreelancersBook_Freelancer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dec1132f-c101-4915-a39d-4986b289df28" absoluteBounds="1.5150000000000001, 2.585, 1.9700000000000002, 6.403035481770833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c7d9ab1d-66ab-4016-bb50-ddff2aef07ae" absoluteBounds="6.625, 2.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/AffiliatesDataContext/Table_TouryAds_Affiliates_Stat" />
+      <nestedChildShapes>
+        <elementListCompartment Id="143d4ce7-994a-42f5-8334-86dd1bca0a45" absoluteBounds="6.64, 2.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="778a49b1-f6d8-466c-8833-ccc604c8206b" absoluteBounds="4.25, 2.25, 2, 4.4631168619791666">
+      <DataClassMoniker Name="/AffiliatesDataContext/Table_TouryAds_Affiliate" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3fa44fd1-3378-4b3d-8016-831afa3eaf1b" absoluteBounds="4.265, 2.71, 1.9700000000000002, 3.903116861979167" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
